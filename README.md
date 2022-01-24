@@ -1,16 +1,24 @@
-### Hi there 👋
+## 💜 Olá, meu nome é <strong>Bruno Rocha</strong>
 
-<!--
-**brunorochadelima/brunorochadelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Sou desenvolvedor front end e designer gráfico.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Você pode entrar em contato comigo pelo link abaixo:
+
+https://solo.to/bruno-rocha
+
+
+
+## 🚀 Minhas Skills
+
+
+- Javascript 
+- HTML 
+- CSS 
+- Bootstrap
+
+
+
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunorochadelima&show_icons=true)
