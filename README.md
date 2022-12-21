@@ -16,8 +16,8 @@ https://solo.to/bruno-rocha
 - React js
 - HTML 
 - CSS 
+- PHP
 - Bootstrap
-
 
 
 
