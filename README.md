@@ -11,13 +11,12 @@ https://solo.to/bruno-rocha
 
 ## 🚀 Minhas Skills
 
-
-- Javascript 
-- React js
 - HTML 
 - CSS 
-- PHP
-- Bootstrap
+- Javascript 
+-  PHP
+- React js
+- TypeScript
 
 
 
