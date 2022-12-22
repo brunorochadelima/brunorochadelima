@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>Bruno Rocha</strong>
+## Olá, meu nome é <strong>Bruno Rocha</strong>
 
-> Sou desenvolvedor front end e designer gráfico.
+> Sou desenvolvedor front end e designer.
 
 
 💬 Você pode entrar em contato comigo pelo link abaixo:
