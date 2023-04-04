@@ -16,6 +16,7 @@ https://solo.to/bruno-rocha
 - Javascript 
 -  PHP
 - React js
+- React native
 - TypeScript
 
 
