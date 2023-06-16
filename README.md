@@ -11,15 +11,12 @@ https://solo.to/bruno-rocha
 
 ## 🚀 Minhas Skills
 
-- HTML 
-- CSS 
 - Javascript 
--  PHP
+- Angular
 - React js
 - React native
 - TypeScript
-
-
+- PHP
 
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorochadelima&show_icons=true&bg_color=00000000)
